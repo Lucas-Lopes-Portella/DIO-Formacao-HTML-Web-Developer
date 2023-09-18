@@ -5,6 +5,6 @@
 
 > Desafio de projeto
 
-- [ ] Criar Uma Página Web Utilizando as Tags Aprendidas. (Básico)
+- [X] Criar Uma Página Web Utilizando as Tags Aprendidas. (Básico)
 - [ ] Criando seu Primeiro Site Completo com HTML. (Básico)
 - [ ] Recriando o Wikipedia com Layout Moderno. (Intermediário)
