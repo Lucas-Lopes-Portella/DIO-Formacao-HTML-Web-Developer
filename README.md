@@ -2,7 +2,6 @@
 
 ## Repositório criado para incluir os projetos do curso.
 
-
 > Desafio de projeto
 
 - [X] Criar Uma Página Web Utilizando as Tags Aprendidas. (Básico)
